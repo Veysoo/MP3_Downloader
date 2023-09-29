@@ -34,7 +34,7 @@ class mainPage extends StatelessWidget {
                   color: Colors.amber[900],
                   fontStyle: FontStyle.italic),
             ),
-            backgroundColor: Colors.white,
+            backgroundColor: Color.fromARGB(255, 112, 5, 64),
             bottom: TabBar(
               tabs: [
                 Tab(
